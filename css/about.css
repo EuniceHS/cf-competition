@@ -4,7 +4,7 @@
   background-position:center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-blend-mode: hue;
+  background-blend-mode:
 }
 
 body{
@@ -16,7 +16,6 @@ body{
 }
 
 .navbar{
-  background-color: ;
   width: 100%;
   padding:0;
   margin: 0%;
