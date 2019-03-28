@@ -1,0 +1,39 @@
+.background{
+  height:100%;
+  margin: 0%;
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: hue;
+}
+
+body{
+  color: rgb(255,255,224)
+}
+
+.lead{
+  color: rgb(255,255,224)
+}
+
+.navbar{
+  background-color: ;
+  width: 100%;
+  padding:0;
+  margin: 0%;
+}
+
+.navbar-brand{
+  font-style:normal;
+}
+
+.cover-heading{
+  font-weight: bolder;
+}
+
+.footer {
+  position: fixed;
+  left:0;
+  bottom:0;
+  text-align:center;
+  width:100%;
+}
